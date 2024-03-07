@@ -4,7 +4,7 @@ Check prayer times, Azan times, Hijrah dates, upcoming Islamic events and Malacc
 ## Installation
 First Step is Add the upload the plugin to wordpress. 
 
-1-> Download the Plugin 
+1-> Download the Zip file Plugin. 
 
 2-> Upload the Plugin to Wordpress
 
@@ -32,3 +32,6 @@ Waktu Solat Melaka https://waktusolatmelaka.com/ is developed using this free pl
 
 Note: The City name should be the same for one page. if you want to show multiple cities prayer times then you need to first fetch the prayer times for those cities before displaying the prayer time. 
 
+
+## Want Customization 
+you can contact on naveed32001@gmail.com in case of any query or question.Thanks 
