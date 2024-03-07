@@ -1,5 +1,5 @@
-# Waktu-solat-melaka
-Check prayer times, Azan times, Hijrah dates, upcoming Islamic events and Malacca Malaysia Ramadan times on this page. This gives you a daily, weekly and monthly prayer schedule that you can follow. Melaka prayer times are updated daily, ensuring correct prayer times in Melaka.
+# Prayer Times Plugin 
+An Optomized php plugin for Wordpress compatible with all themes and plugin for displaying daily prayertimes, Monthly prayer times & Islamic Dates of any country and also the city wise as well. Easy to use & configure. 
 
 ## Installation
 First Step is Add the upload the plugin to wordpress. 
