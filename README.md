@@ -28,7 +28,10 @@ Islamic Month : [hijri_month city = "City Name here"]
 Islamic Date: [hijri_date city = "City Name Here"]
 
 ## Example Site
+
 Waktu Solat Melaka https://waktusolatmelaka.com/ is developed using this free plugin. 
+
+![image](https://github.com/prayer-times-plugin/waktu-solat-melaka/assets/162627433/4e1e586b-b70b-4b69-bd27-cc6437bd5477)
 
 Note: The City name should be the same for one page. if you want to show multiple cities prayer times then you need to first fetch the prayer times for those cities before displaying the prayer time. 
 
